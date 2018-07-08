@@ -13,10 +13,20 @@ Creating a list of content we want alerts for new posts in InfosecNZ. Ideally pr
 * Blackhat https://www.youtube.com/user/BlackHatOfficialYT
 * Bsides London https://www.youtube.com/channel/UCXXNOelGiY_N96a2nfhcaDA
 
-## Youtube Other 
-* Lock Noob https://www.youtube.com/channel/UCxZRF3OG7gapQ8kacWUwj2A
-
 ## Live streams 
 * Thugcrowd 
+
+## CTF 
+
+## Physical Security / Lock Sport
+* Lock Noob https://www.youtube.com/channel/UCxZRF3OG7gapQ8kacWUwj2A
+
+## Blue Team 
+
+## Red Team
+
+## OSINT 
+
+## Threat Intel 
 
 ## Others? 
