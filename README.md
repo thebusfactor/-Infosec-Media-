@@ -15,8 +15,11 @@ Creating a list of content we want alerts for new posts in InfosecNZ. Ideally pr
 
 ## Live streams 
 * Thugcrowd 
+* silviocesare https://www.twitch.tv/silviocesare
+* GynvaelEN https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg
 
 ## CTF 
+* IppSec https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 
 ## Physical Security / Lock Sport
 * Lock Noob https://www.youtube.com/channel/UCxZRF3OG7gapQ8kacWUwj2A
