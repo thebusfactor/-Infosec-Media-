@@ -1,4 +1,4 @@
-# -Infosec-Media-
+# Infosec Media
 
 We are creating a list of content we want alerts for new posts in InfosecNZ. Ideally provide the RSS link if you can. 
 
