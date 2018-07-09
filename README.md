@@ -7,6 +7,8 @@ Creating a list of content we want alerts for new posts in InfosecNZ. Ideally pr
 * Defensive Sec https://defensivesecurity.org/feed/podcast
 * Red team podcast https://redteams.net/podcast/
 * BreakSec https://brakesec.com/BrakesecRSS
+* BinaryMist: https://binarymist.io/publication/#4
+* Purple Squad: https://purplesquadsec.com/podcast/
 
 ## Conference Youtube
 * Defcon https://www.youtube.com/user/DEFCONConference
