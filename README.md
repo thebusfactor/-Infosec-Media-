@@ -11,9 +11,10 @@ We are creating a list of content we want alerts for new posts in InfosecNZ. Ide
 * [Risky Biz](https://risky.biz/feeds/risky-business/)
 
 ## Live Streams 
-* Thugcrowd 
-* silviocesare https://www.twitch.tv/silviocesare
-* GynvaelEN https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg
+* [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
+* [silviocesare](https://www.twitch.tv/silviocesare)
+* [TheColonial](https://mixer.com/OJReeves?vod=41770362)
+* [ThugCrowd](http://thugcrowd.com/)
 
 ## Locksport YouTube 
 * [Bosnianbill](https://www.youtube.com/user/bosnianbill)
