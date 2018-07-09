@@ -4,8 +4,10 @@ We are creating a list of content we want alerts for new posts in InfosecNZ. Ide
 
 ## Infosec Podcasts 
 * [BrakeSec](https://brakesec.com/BrakesecRSS)
+* [BinaryMist](https://binarymist.io/publication/#4)
 * [Complete Privacy & Security Podcast](https://inteltechniques.com/podcast.html)
 * [Defensive Security Podcast](https://defensivesecurity.org/feed/podcast)
+* [Purple Squad](https://purplesquadsec.com/podcast/)
 * [Rally Security Podcast](https://rallysecurity.com/feed/podcast)
 * [Red Team Podcast](https://redteams.net/podcast/)
 * [Risky Biz](https://risky.biz/feeds/risky-business/)
