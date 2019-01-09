@@ -11,12 +11,14 @@ We are creating a list of content we want alerts for new posts in InfosecNZ. Ide
 * [Rally Security Podcast](https://rallysecurity.com/feed/podcast)
 * [Red Team Podcast](https://redteams.net/podcast/)
 * [Risky Biz](https://risky.biz/feeds/risky-business/)
+* [The Bus Factor](https://thebusfactor.party/)
 
 ## Live Streams 
 * [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
 * [silviocesare](https://www.twitch.tv/silviocesare)
 * [TheColonial](https://mixer.com/OJReeves?vod=41770362)
 * [ThugCrowd](http://thugcrowd.com/)
+* [The Bus Factor](https://twitch.tv/thebusfactor/)
 
 ## Locksport YouTube 
 * [Bosnianbill](https://www.youtube.com/user/bosnianbill)
